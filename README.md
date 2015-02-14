@@ -3,7 +3,7 @@
 ## Usage
 
 ```puppet
-include git-flow
+include gitflow
 ```
 
 ## Required Puppet Modules

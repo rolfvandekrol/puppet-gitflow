@@ -2,9 +2,9 @@
 #
 # Examples
 #
-#   include git-flow
+#   include gitflow
 
-class git-flow {
+class gitflow {
   include homebrew
   
   $version = '0.4.1-boxen1'
